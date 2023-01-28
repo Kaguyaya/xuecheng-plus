@@ -1,0 +1,126 @@
+2023-01-28 18:39:09,381 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in com.xuecheng.content.api.api.CourseBaseInfoController required a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' in your configuration.
+
+2023-01-28 18:41:12,026 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in com.xuecheng.content.api.api.CourseBaseInfoController required a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' in your configuration.
+
+2023-01-28 18:41:32,797 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in com.xuecheng.content.api.api.CourseBaseInfoController required a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' in your configuration.
+
+2023-01-28 18:43:24,134 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in com.xuecheng.content.api.api.CourseBaseInfoController required a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' in your configuration.
+
+2023-01-28 18:45:28,256 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in com.xuecheng.content.api.api.CourseBaseInfoController required a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' in your configuration.
+
+2023-01-28 18:46:39,724 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in com.xuecheng.content.api.api.CourseBaseInfoController required a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' in your configuration.
+
+2023-01-28 18:48:23,396 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in com.xuecheng.content.api.api.CourseBaseInfoController required a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.xuecheng.content.service.CourseBaseInfoService' in your configuration.
+
